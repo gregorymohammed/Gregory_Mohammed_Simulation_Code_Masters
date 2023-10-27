@@ -1,7 +1,7 @@
 ## NOTES : Written by Gregory Mohammed, Masters Thesis,
 ###		  31 August, 2012
 
-EDITS : Written by Gregory Mohammed, after successful completion of the Masters thesis. As of 3 September, 2013 all bugs have been resolved.
+EDITS : Written by Gregory Mohammed, after successful completion of the Masters thesis. As of 3 September, 2013 all bugs have been resolved.  
 
 There are a lot of switches and data in here. Read through carefully so that you understand the comments and what each switch and set of data do and are for. Do some test runs if you are not clear.
 
