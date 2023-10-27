@@ -1,7 +1,7 @@
 ## NOTES : Written by Gregory Mohammed, Masters Thesis,
 ###		  31 August, 2012
 
-### EDITS : Written by Gregory Mohammed, after successful
+EDITS : Written by Gregory Mohammed, after successful \\
 ### completion of the Masters thesis. As of 3 September, 2013
 ### all bugs have been resolved.
 
