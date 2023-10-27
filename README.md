@@ -1,26 +1,20 @@
 ## NOTES : Written by Gregory Mohammed, Masters Thesis,
 ###		  31 August, 2012
 
-EDITS : Written by Gregory Mohammed, after successful \\
-### completion of the Masters thesis. As of 3 September, 2013
-### all bugs have been resolved.
+EDITS : Written by Gregory Mohammed, after successful completion of the Masters thesis. As of 3 September, 2013 all bugs have been resolved.
 
-### There are a lot of switches and data in here. Read through
-### carefully so that you understand the comments and what each
-### switch and set of data do and are for. Do some test runs if
-### you are not clear.
+There are a lot of switches and data in here. Read through carefully so that you understand the comments and what each switch and set of data do and are for. Do some test runs if you are not clear.
 
-### Indicate choices:
-### Initial conditions: 0 = smooth shock, 1 = shock
+**Indicate choices:**
+Initial conditions: 0 = smooth shock, 1 = shock
 
 initShock = 1
 
-### showInitialSlice: Show = 1, Don't show = 0
+**showInitialSlice: Show = 1, Don't show = 0**
 
-### showExact: 0 => Does not show an exact solution.
-###            1 => Plots the exact solution.
-### Be aware that there is no correct exact solution for the KKT
-### data.
+showExact: 0 => Does not show an exact solution.
+           1 => Plots the exact solution.
+Be aware that there is no correct exact solution for the KKT data.
 
 showInitialSlice = 0
 showExact = 0
