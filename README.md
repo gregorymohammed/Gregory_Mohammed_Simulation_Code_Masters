@@ -6,8 +6,7 @@ EDITS : Written by Gregory Mohammed, after successful completion of the Masters 
 There are a lot of switches and data in here. Read through carefully so that you understand the comments and what each switch and set of data do and are for. Do some test runs if you are not clear.
 
 **Indicate choices:**
-Initial conditions: 0 = smooth shock, 1 = shock
-
+Initial conditions: 0 = smooth shock, 1 = shock   
 initShock = 1
 
 **showInitialSlice: Show = 1, Don't show = 0**
